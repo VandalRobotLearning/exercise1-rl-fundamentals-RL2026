@@ -1,0 +1,8 @@
+numpy>=1.26.4,<2
+scipy>=1.16,<1.18
+matplotlib>=3.8
+pandas>=2.2,<3
+seaborn>=0.13,<0.14
+pygame>=2.6
+gymnasium>=1.0
+torch==2.1.0
